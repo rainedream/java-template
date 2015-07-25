@@ -1,0 +1,3 @@
+[submodule "popular-charts"]
+	path = popular-charts
+	url = https://github.com/rainedream/popular-charts.git
